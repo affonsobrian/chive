@@ -1,6 +1,6 @@
 certifi==2018.11.29
 chardet==3.0.4
-codecov==2.0.15
+codecov==2.0.16
 coverage==4.5.2
 coveralls==1.6.0
 Django==2.1.15
